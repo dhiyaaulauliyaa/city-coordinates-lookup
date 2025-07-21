@@ -1,0 +1,158 @@
+[
+  {
+    "id": 5303,
+    "country_id": 136,
+    "name": "Ayre",
+    "state_code": "01",
+    "latitude": "54.32975770",
+    "longitude": "-4.60258790",
+    "cities": [
+      {
+        "id": 154082,
+        "name": "Andreas",
+        "latitude": "54.36841400",
+        "longitude": "-4.52114630"
+      },
+      {
+        "id": 154083,
+        "name": "Bride",
+        "latitude": "54.38316570",
+        "longitude": "-4.40803560"
+      },
+      {
+        "id": 154084,
+        "name": "Lezayre",
+        "latitude": "54.29621930",
+        "longitude": "-4.53110150"
+      }
+    ]
+  },
+  {
+    "id": 5304,
+    "country_id": 136,
+    "name": "Garff",
+    "state_code": "02",
+    "latitude": "54.25687200",
+    "longitude": "-4.55473070",
+    "cities": [
+      {
+        "id": 154085,
+        "name": "Lonan",
+        "latitude": "54.22104520",
+        "longitude": "-4.50103060"
+      },
+      {
+        "id": 154086,
+        "name": "Maughold",
+        "latitude": "54.25494540",
+        "longitude": "-4.51223490"
+      },
+      {
+        "id": 154087,
+        "name": "Onchan",
+        "latitude": "54.19815080",
+        "longitude": "-4.54908980"
+      }
+    ]
+  },
+  {
+    "id": 5305,
+    "country_id": 136,
+    "name": "Glenfaba",
+    "state_code": "03",
+    "latitude": "54.19855340",
+    "longitude": "-4.81314070",
+    "cities": [
+      {
+        "id": 154088,
+        "name": "German",
+        "latitude": "54.21871450",
+        "longitude": "-4.70652730"
+      }
+    ]
+  },
+  {
+    "id": 5306,
+    "country_id": 136,
+    "name": "Michael",
+    "state_code": "04",
+    "latitude": "54.27427780",
+    "longitude": "-4.64273250",
+    "cities": [
+      {
+        "id": 154089,
+        "name": "Ballaugh",
+        "latitude": "54.30481210",
+        "longitude": "-4.62075260"
+      },
+      {
+        "id": 154090,
+        "name": "Jurby",
+        "latitude": "54.35905280",
+        "longitude": "-4.54065860"
+      },
+      {
+        "id": 154091,
+        "name": "Michael",
+        "latitude": "54.27427780",
+        "longitude": "-4.64273250"
+      }
+    ]
+  },
+  {
+    "id": 5307,
+    "country_id": 136,
+    "name": "Middle",
+    "state_code": "05",
+    "latitude": "54.17770520",
+    "longitude": "-4.81064360",
+    "cities": [
+      {
+        "id": 154092,
+        "name": "Braddan",
+        "latitude": "54.16328280",
+        "longitude": "-4.52585060"
+      },
+      {
+        "id": 154093,
+        "name": "Marown",
+        "latitude": "54.18462420",
+        "longitude": "-4.64952180"
+      },
+      {
+        "id": 154094,
+        "name": "Santon",
+        "latitude": "54.12054890",
+        "longitude": "-4.64937750"
+      }
+    ]
+  },
+  {
+    "id": 5308,
+    "country_id": 136,
+    "name": "Rushen",
+    "state_code": "06",
+    "latitude": "54.09574060",
+    "longitude": "-4.82835170",
+    "cities": [
+      {
+        "id": 154095,
+        "name": "Arbory",
+        "latitude": "54.10878070",
+        "longitude": "-4.83564540"
+      },
+      {
+        "id": 154097,
+        "name": "Malew",
+        "latitude": "54.11180490",
+        "longitude": "-4.80138270"
+      },
+      {
+        "id": 154096,
+        "name": "Rushen",
+        "latitude": "54.09084920",
+        "longitude": "-4.84149820"
+      }
+    ]
+  }
+]

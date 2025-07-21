@@ -1,0 +1,90 @@
+[
+  {
+    "id": 2092,
+    "country_id": 206,
+    "name": "Central Equatoria",
+    "state_code": "EC",
+    "latitude": "4.61440630",
+    "longitude": "31.26263660"
+  },
+  {
+    "id": 2093,
+    "country_id": 206,
+    "name": "Eastern Equatoria",
+    "state_code": "EE",
+    "latitude": "5.06929950",
+    "longitude": "33.43835300"
+  },
+  {
+    "id": 2094,
+    "country_id": 206,
+    "name": "Jonglei State",
+    "state_code": "JG",
+    "latitude": "7.18196190",
+    "longitude": "32.35609520"
+  },
+  {
+    "id": 2090,
+    "country_id": 206,
+    "name": "Lakes",
+    "state_code": "LK",
+    "latitude": "37.16282550",
+    "longitude": "-95.69116230",
+    "cities": [
+      {
+        "id": 104834,
+        "name": "Yirol",
+        "latitude": "6.55250000",
+        "longitude": "30.49806000"
+      }
+    ]
+  },
+  {
+    "id": 2088,
+    "country_id": 206,
+    "name": "Northern Bahr el Ghazal",
+    "state_code": "BN",
+    "latitude": "8.53604490",
+    "longitude": "26.79678490"
+  },
+  {
+    "id": 2085,
+    "country_id": 206,
+    "name": "Unity",
+    "state_code": "UY",
+    "latitude": "37.78712760",
+    "longitude": "-122.40340790"
+  },
+  {
+    "id": 2086,
+    "country_id": 206,
+    "name": "Upper Nile",
+    "state_code": "NU",
+    "latitude": "9.88942020",
+    "longitude": "32.71813750"
+  },
+  {
+    "id": 2087,
+    "country_id": 206,
+    "name": "Warrap",
+    "state_code": "WR",
+    "latitude": "8.08862380",
+    "longitude": "28.64106410"
+  },
+  {
+    "id": 2091,
+    "country_id": 206,
+    "name": "Western Bahr el Ghazal",
+    "state_code": "BW",
+    "latitude": "8.64523990",
+    "longitude": "25.28375850"
+  },
+  {
+    "id": 2089,
+    "country_id": 206,
+    "name": "Western Equatoria",
+    "state_code": "EW",
+    "latitude": "5.34717990",
+    "longitude": "28.29943500"
+  }
+]

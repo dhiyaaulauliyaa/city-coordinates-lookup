@@ -1,0 +1,282 @@
+[
+  {
+    "id": 3196,
+    "country_id": 36,
+    "name": "Bubanza",
+    "state_code": "BB",
+    "latitude": "-3.15724030",
+    "longitude": "29.37149090",
+    "cities": [
+      {
+        "id": 9762,
+        "name": "Bubanza",
+        "latitude": "-3.08040000",
+        "longitude": "29.39100000"
+      }
+    ]
+  },
+  {
+    "id": 3198,
+    "country_id": 36,
+    "name": "Bujumbura Mairie",
+    "state_code": "BM",
+    "latitude": "-3.38841410",
+    "longitude": "29.34826460",
+    "cities": [
+      {
+        "id": 9763,
+        "name": "Bujumbura",
+        "latitude": "-3.38193000",
+        "longitude": "29.36142000"
+      }
+    ]
+  },
+  {
+    "id": 3200,
+    "country_id": 36,
+    "name": "Bujumbura Rural",
+    "state_code": "BL",
+    "latitude": "-3.50901440",
+    "longitude": "29.46435900"
+  },
+  {
+    "id": 3202,
+    "country_id": 36,
+    "name": "Bururi",
+    "state_code": "BR",
+    "latitude": "-3.90068510",
+    "longitude": "29.51077080",
+    "cities": [
+      {
+        "id": 9764,
+        "name": "Bururi",
+        "latitude": "-3.94877000",
+        "longitude": "29.62438000"
+      }
+    ]
+  },
+  {
+    "id": 3201,
+    "country_id": 36,
+    "name": "Cankuzo",
+    "state_code": "CA",
+    "latitude": "-3.15277880",
+    "longitude": "30.61998950",
+    "cities": [
+      {
+        "id": 9765,
+        "name": "Cankuzo",
+        "latitude": "-3.21860000",
+        "longitude": "30.55280000"
+      }
+    ]
+  },
+  {
+    "id": 3190,
+    "country_id": 36,
+    "name": "Cibitoke",
+    "state_code": "CI",
+    "latitude": "-2.81028970",
+    "longitude": "29.18557850",
+    "cities": [
+      {
+        "id": 9766,
+        "name": "Cibitoke",
+        "latitude": "-2.88690000",
+        "longitude": "29.12480000"
+      }
+    ]
+  },
+  {
+    "id": 3197,
+    "country_id": 36,
+    "name": "Gitega",
+    "state_code": "GI",
+    "latitude": "-3.49290510",
+    "longitude": "29.92779470",
+    "cities": [
+      {
+        "id": 9767,
+        "name": "Gitega",
+        "latitude": "-3.42708000",
+        "longitude": "29.92463000"
+      }
+    ]
+  },
+  {
+    "id": 3194,
+    "country_id": 36,
+    "name": "Karuzi",
+    "state_code": "KR",
+    "latitude": "-3.13403470",
+    "longitude": "30.11273500",
+    "cities": [
+      {
+        "id": 9768,
+        "name": "Karuzi",
+        "latitude": "-3.10139000",
+        "longitude": "30.16278000"
+      }
+    ]
+  },
+  {
+    "id": 3192,
+    "country_id": 36,
+    "name": "Kayanza",
+    "state_code": "KY",
+    "latitude": "-3.00779810",
+    "longitude": "29.64991620",
+    "cities": [
+      {
+        "id": 9769,
+        "name": "Kayanza",
+        "latitude": "-2.92210000",
+        "longitude": "29.62930000"
+      }
+    ]
+  },
+  {
+    "id": 3195,
+    "country_id": 36,
+    "name": "Kirundo",
+    "state_code": "KI",
+    "latitude": "-2.57628820",
+    "longitude": "30.11273500",
+    "cities": [
+      {
+        "id": 9770,
+        "name": "Kirundo",
+        "latitude": "-2.58450000",
+        "longitude": "30.09590000"
+      }
+    ]
+  },
+  {
+    "id": 3188,
+    "country_id": 36,
+    "name": "Makamba",
+    "state_code": "MA",
+    "latitude": "-4.32570620",
+    "longitude": "29.69626770",
+    "cities": [
+      {
+        "id": 9771,
+        "name": "Makamba",
+        "latitude": "-4.13480000",
+        "longitude": "29.80400000"
+      }
+    ]
+  },
+  {
+    "id": 3193,
+    "country_id": 36,
+    "name": "Muramvya",
+    "state_code": "MU",
+    "latitude": "-3.28983980",
+    "longitude": "29.64991620",
+    "cities": [
+      {
+        "id": 9772,
+        "name": "Muramvya",
+        "latitude": "-3.26820000",
+        "longitude": "29.60790000"
+      }
+    ]
+  },
+  {
+    "id": 3186,
+    "country_id": 36,
+    "name": "Muyinga",
+    "state_code": "MY",
+    "latitude": "-2.77935110",
+    "longitude": "30.29741990",
+    "cities": [
+      {
+        "id": 9773,
+        "name": "Muyinga",
+        "latitude": "-2.84510000",
+        "longitude": "30.34140000"
+      }
+    ]
+  },
+  {
+    "id": 3187,
+    "country_id": 36,
+    "name": "Mwaro",
+    "state_code": "MW",
+    "latitude": "-3.50259180",
+    "longitude": "29.64991620",
+    "cities": [
+      {
+        "id": 9774,
+        "name": "Mwaro",
+        "latitude": "-3.51128000",
+        "longitude": "29.70334000"
+      }
+    ]
+  },
+  {
+    "id": 3199,
+    "country_id": 36,
+    "name": "Ngozi",
+    "state_code": "NG",
+    "latitude": "-2.89582430",
+    "longitude": "29.88152030",
+    "cities": [
+      {
+        "id": 9775,
+        "name": "Ngozi",
+        "latitude": "-2.90750000",
+        "longitude": "29.83060000"
+      }
+    ]
+  },
+  {
+    "id": 3185,
+    "country_id": 36,
+    "name": "Rumonge",
+    "state_code": "RM",
+    "latitude": "-3.97540490",
+    "longitude": "29.43880140",
+    "cities": [
+      {
+        "id": 9776,
+        "name": "Rumonge",
+        "latitude": "-3.97360000",
+        "longitude": "29.43860000"
+      }
+    ]
+  },
+  {
+    "id": 3189,
+    "country_id": 36,
+    "name": "Rutana",
+    "state_code": "RT",
+    "latitude": "-3.87915230",
+    "longitude": "30.06652360",
+    "cities": [
+      {
+        "id": 9777,
+        "name": "Rutana",
+        "latitude": "-3.92790000",
+        "longitude": "29.99200000"
+      }
+    ]
+  },
+  {
+    "id": 3191,
+    "country_id": 36,
+    "name": "Ruyigi",
+    "state_code": "RY",
+    "latitude": "-3.44620700",
+    "longitude": "30.25127280",
+    "cities": [
+      {
+        "id": 9778,
+        "name": "Ruyigi",
+        "latitude": "-3.47639000",
+        "longitude": "30.24861000"
+      }
+    ]
+  }
+]
