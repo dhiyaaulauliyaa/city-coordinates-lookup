@@ -1,0 +1,36 @@
+# [emoji type]: [subject]
+#
+# [body]
+#
+# [footer]
+#
+# Type can be:
+# - 🎉 init: initial commit
+# - ✨ feat: new feature
+# - 🛠️ fix: bug fix
+# - 📝 docs: documentation changes (README, site content, etc.)
+# - 💄 style: formatting, whitespace, linting – no logic change
+# - ♻️ refactor: code change that neither fixes a bug nor adds a feature
+# - ⚡️ perf: performance improvements
+# - ✅ test: add or update tests
+# - 🧪 testdata: add or update mock/test data or fixtures
+# - 🧹 chore: maintenance tasks (gitignore, cleanup, etc.)
+# - ⚙️ config: configuration files (eslint, tailwind, vscode, env)
+# - 📦 assets: static files (images, icons, fonts)
+# - 🔄 ci: CI/CD config or pipeline changes
+# - 🏗️ build: build tools or dependencies
+# - 🔥 remove: remove code, files, or packages
+# - 🚚 move: move or rename files
+# - 🛑 revert: revert a previous commit
+# - 🚨 lint: fix lint warnings/errors
+# - 🚧 wip: work in progress (temporary commits)
+# - 📌 deps: dependency changes (upgrade, downgrade, pin)
+# - 🔐 security: security fixes
+# - 🧰 tooling: custom dev tools or scripts
+# - 🗃️ db: database schema, migration, or seed
+# - 🧑‍💻 dev: developer environment setup (Docker, SDKs)
+# - 🎩 update: small polish, tweaks, or minor changes
+
+# Subject: 50 chars max, present tense, lowercase
+# Body: Wrap at 72 chars. Explain what and why, not how
+# Footer: Reference issues, breaking changes, co-authors, etc.
