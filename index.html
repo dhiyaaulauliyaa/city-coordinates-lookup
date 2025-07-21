@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>City Coordinates Lookup API</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem;
+            line-height: 1.6;
+        }
+        .endpoint {
+            background: #f5f5f5;
+            padding: 1rem;
+            border-radius: 4px;
+            margin: 1rem 0;
+            font-family: 'Courier New', monospace;
+        }
+        .countries {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 1rem;
+            margin-top: 2rem;
+        }
+        .country-link {
+            background: #007bff;
+            color: white;
+            padding: 0.5rem 1rem;
+            text-decoration: none;
+            border-radius: 4px;
+            text-align: center;
+        }
+        .country-link:hover {
+            background: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <h1>City Coordinates Lookup API</h1>
+    <p>Access per-country JSON files containing state and city data with coordinates.</p>
+    
+    <h2>API Usage</h2>
+    <p>All JSON files are available at:</p>
+    <div class="endpoint">
+        https://dhiyaaulauliyaa.github.io/city-coordinates-lookup/{country_id}_{country_code}.json
+    </div>
+    
+    <h2>Available Countries</h2>
+    <div id="countries" class="countries">
+        <!-- Countries will be populated by JavaScript -->
+    </div>
+
+    <h2>Example Usage</h2>
+    <div class="endpoint">
+        // Fetch US data<br>
+        fetch('https://dhiyaaulauliyaa.github.io/city-coordinates-lookup/233_US.json')<br>
+        &nbsp;&nbsp;.then(response => response.json())<br>
+        &nbsp;&nbsp;.then(data => console.log(data));
+    </div>
+
+    <script>
+        // List of available countries (you can expand this)
+        const countries = [
+            { id: 233, code: 'US', name: 'United States' },
+            { id: 38, code: 'CA', name: 'Canada' },
+            { id: 77, code: 'GB', name: 'United Kingdom' },
+            { id: 45, code: 'CN', name: 'China' },
+            { id: 101, code: 'IN', name: 'India' },
+            { id: 82, code: 'DE', name: 'Germany' },
+            { id: 75, code: 'FR', name: 'France' },
+            { id: 107, code: 'IT', name: 'Italy' },
+            { id: 182, code: 'RU', name: 'Russia' },
+            { id: 240, code: 'VN', name: 'Vietnam' },
+            { id: 32, code: 'BR', name: 'Brazil' },
+            { id: 153, code: 'JP', name: 'Japan' },
+            { id: 67, code: 'AU', name: 'Australia' }
+        ];
+
+        const countriesDiv = document.getElementById('countries');
+        countries.forEach(country => {
+            const link = document.createElement('a');
+            link.className = 'country-link';
+            link.href = `https://dhiyaaulauliyaa.github.io/city-coordinates-lookup/${country.id}_${country.code}.json`;
+            link.textContent = `${country.name} (${country.code})`;
+            link.target = '_blank';
+            countriesDiv.appendChild(link);
+        });
+    </script>
+</body>
+</html>
