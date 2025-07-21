@@ -1,0 +1,18 @@
+[
+  {
+    "id": 2574,
+    "country_id": 137,
+    "name": "Ralik",
+    "state_code": "L",
+    "latitude": "8.13614600",
+    "longitude": "164.88679560"
+  },
+  {
+    "id": 2573,
+    "country_id": 137,
+    "name": "Ratak",
+    "state_code": "T",
+    "latitude": "10.27632760",
+    "longitude": "170.55009370"
+  }
+]

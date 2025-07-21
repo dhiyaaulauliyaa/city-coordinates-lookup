@@ -1,0 +1,190 @@
+[
+  {
+    "id": 2720,
+    "country_id": 93,
+    "name": "Bafatá",
+    "state_code": "BA",
+    "latitude": "12.17352430",
+    "longitude": "-14.65295200",
+    "cities": [
+      {
+        "id": 53807,
+        "name": "Bafatá",
+        "latitude": "12.16583000",
+        "longitude": "-14.66167000"
+      },
+      {
+        "id": 53815,
+        "name": "Contuboel Sector",
+        "latitude": "12.55500000",
+        "longitude": "-14.64100000"
+      }
+    ]
+  },
+  {
+    "id": 2714,
+    "country_id": 93,
+    "name": "Biombo",
+    "state_code": "BM",
+    "latitude": "11.85290610",
+    "longitude": "-15.73511710",
+    "cities": [
+      {
+        "id": 53820,
+        "name": "Quinhámel",
+        "latitude": "11.88694000",
+        "longitude": "-15.85556000"
+      }
+    ]
+  },
+  {
+    "id": 2722,
+    "country_id": 93,
+    "name": "Bolama",
+    "state_code": "BL",
+    "latitude": "11.14805910",
+    "longitude": "-16.13457050",
+    "cities": [
+      {
+        "id": 53809,
+        "name": "Bolama",
+        "latitude": "11.57694000",
+        "longitude": "-15.47611000"
+      },
+      {
+        "id": 53811,
+        "name": "Bubaque",
+        "latitude": "11.28333000",
+        "longitude": "-15.83333000"
+      }
+    ]
+  },
+  {
+    "id": 2713,
+    "country_id": 93,
+    "name": "Cacheu",
+    "state_code": "CA",
+    "latitude": "12.05514160",
+    "longitude": "-16.06401790",
+    "cities": [
+      {
+        "id": 53812,
+        "name": "Cacheu",
+        "latitude": "12.27444000",
+        "longitude": "-16.16528000"
+      },
+      {
+        "id": 53813,
+        "name": "Canchungo",
+        "latitude": "12.06722000",
+        "longitude": "-16.03333000"
+      }
+    ]
+  },
+  {
+    "id": 2719,
+    "country_id": 93,
+    "name": "Gabú",
+    "state_code": "GA",
+    "latitude": "11.89624880",
+    "longitude": "-14.10013260",
+    "cities": [
+      {
+        "id": 53817,
+        "name": "Gabú",
+        "latitude": "12.28000000",
+        "longitude": "-14.22222000"
+      }
+    ]
+  },
+  {
+    "id": 2721,
+    "country_id": 93,
+    "name": "Leste",
+    "state_code": "L",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 2717,
+    "country_id": 93,
+    "name": "Norte",
+    "state_code": "N",
+    "latitude": "7.87218110",
+    "longitude": "123.88577470"
+  },
+  {
+    "id": 2718,
+    "country_id": 93,
+    "name": "Oio",
+    "state_code": "OI",
+    "latitude": "12.27607090",
+    "longitude": "-15.31311850",
+    "cities": [
+      {
+        "id": 53808,
+        "name": "Bissorã",
+        "latitude": "12.22306000",
+        "longitude": "-15.44750000"
+      },
+      {
+        "id": 53816,
+        "name": "Farim",
+        "latitude": "12.48389000",
+        "longitude": "-15.22167000"
+      },
+      {
+        "id": 53818,
+        "name": "Mansôa",
+        "latitude": "12.07333000",
+        "longitude": "-15.31889000"
+      }
+    ]
+  },
+  {
+    "id": 2715,
+    "country_id": 93,
+    "name": "Quinara",
+    "state_code": "QU",
+    "latitude": "11.79556200",
+    "longitude": "-15.17268160",
+    "cities": [
+      {
+        "id": 53810,
+        "name": "Buba",
+        "latitude": "11.58889000",
+        "longitude": "-14.99583000"
+      }
+    ]
+  },
+  {
+    "id": 2716,
+    "country_id": 93,
+    "name": "Sul",
+    "state_code": "S",
+    "latitude": "-10.28665780",
+    "longitude": "20.71224650"
+  },
+  {
+    "id": 2712,
+    "country_id": 93,
+    "name": "Tombali",
+    "state_code": "TO",
+    "latitude": "11.36326960",
+    "longitude": "-14.98561760",
+    "cities": [
+      {
+        "id": 53814,
+        "name": "Catió",
+        "latitude": "11.28250000",
+        "longitude": "-15.25472000"
+      },
+      {
+        "id": 53819,
+        "name": "Quebo",
+        "latitude": "11.33333000",
+        "longitude": "-14.93333000"
+      }
+    ]
+  }
+]

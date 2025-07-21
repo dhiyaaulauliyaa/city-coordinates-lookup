@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3867,
+    "country_id": 87,
+    "name": "Carriacou",
+    "state_code": "10",
+    "latitude": "12.47858880",
+    "longitude": "-61.44938420",
+    "cities": [
+      {
+        "id": 52030,
+        "name": "Hillsborough",
+        "latitude": "12.48292000",
+        "longitude": "-61.45597000"
+      }
+    ]
+  },
+  {
+    "id": 3865,
+    "country_id": 87,
+    "name": "Saint Andrew",
+    "state_code": "01",
+    "latitude": null,
+    "longitude": null,
+    "cities": [
+      {
+        "id": 52029,
+        "name": "Grenville",
+        "latitude": "12.12278000",
+        "longitude": "-61.62498000"
+      }
+    ]
+  },
+  {
+    "id": 3869,
+    "country_id": 87,
+    "name": "Saint David",
+    "state_code": "02",
+    "latitude": null,
+    "longitude": null,
+    "cities": [
+      {
+        "id": 52031,
+        "name": "Saint David’s",
+        "latitude": "12.04903000",
+        "longitude": "-61.66875000"
+      }
+    ]
+  },
+  {
+    "id": 3864,
+    "country_id": 87,
+    "name": "Saint George",
+    "state_code": "03",
+    "latitude": null,
+    "longitude": null,
+    "cities": [
+      {
+        "id": 52032,
+        "name": "Saint George's",
+        "latitude": "12.05288000",
+        "longitude": "-61.75226000"
+      }
+    ]
+  },
+  {
+    "id": 3868,
+    "country_id": 87,
+    "name": "Saint John",
+    "state_code": "04",
+    "latitude": "30.11183310",
+    "longitude": "-90.48799160",
+    "cities": [
+      {
+        "id": 52028,
+        "name": "Gouyave",
+        "latitude": "12.16462000",
+        "longitude": "-61.72965000"
+      }
+    ]
+  },
+  {
+    "id": 3866,
+    "country_id": 87,
+    "name": "Saint Mark",
+    "state_code": "05",
+    "latitude": "40.58818630",
+    "longitude": "-73.94957010",
+    "cities": [
+      {
+        "id": 52034,
+        "name": "Victoria",
+        "latitude": "12.19021000",
+        "longitude": "-61.70677000"
+      }
+    ]
+  },
+  {
+    "id": 3863,
+    "country_id": 87,
+    "name": "Saint Patrick",
+    "state_code": "06",
+    "latitude": null,
+    "longitude": null,
+    "cities": [
+      {
+        "id": 52033,
+        "name": "Sauteurs",
+        "latitude": "12.21833000",
+        "longitude": "-61.63917000"
+      }
+    ]
+  }
+]

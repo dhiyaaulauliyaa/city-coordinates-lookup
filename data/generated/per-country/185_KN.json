@@ -1,0 +1,226 @@
+[
+  {
+    "id": 3833,
+    "country_id": 185,
+    "name": "Christ Church Nichola Town",
+    "state_code": "01",
+    "latitude": "17.36048120",
+    "longitude": "-62.76178370",
+    "cities": [
+      {
+        "id": 65176,
+        "name": "Nicola Town",
+        "latitude": "17.37956000",
+        "longitude": "-62.75318000"
+      }
+    ]
+  },
+  {
+    "id": 3832,
+    "country_id": 185,
+    "name": "Nevis",
+    "state_code": "N",
+    "latitude": "17.15535580",
+    "longitude": "-62.57960260"
+  },
+  {
+    "id": 3836,
+    "country_id": 185,
+    "name": "Saint Anne Sandy Point",
+    "state_code": "02",
+    "latitude": "17.37253330",
+    "longitude": "-62.84411330",
+    "cities": [
+      {
+        "id": 65178,
+        "name": "Sandy Point Town",
+        "latitude": "17.35908000",
+        "longitude": "-62.84858000"
+      }
+    ]
+  },
+  {
+    "id": 3837,
+    "country_id": 185,
+    "name": "Saint George Gingerland",
+    "state_code": "04",
+    "latitude": "17.12577590",
+    "longitude": "-62.56198110",
+    "cities": [
+      {
+        "id": 65172,
+        "name": "Market Shop",
+        "latitude": "17.13218000",
+        "longitude": "-62.57267000"
+      }
+    ]
+  },
+  {
+    "id": 3835,
+    "country_id": 185,
+    "name": "Saint James Windward",
+    "state_code": "05",
+    "latitude": "17.17696330",
+    "longitude": "-62.57960260",
+    "cities": [
+      {
+        "id": 65175,
+        "name": "Newcastle",
+        "latitude": "17.20000000",
+        "longitude": "-62.58333000"
+      }
+    ]
+  },
+  {
+    "id": 3845,
+    "country_id": 185,
+    "name": "Saint John Capisterre",
+    "state_code": "06",
+    "latitude": "17.38103410",
+    "longitude": "-62.79118330",
+    "cities": [
+      {
+        "id": 65170,
+        "name": "Dieppe Bay Town",
+        "latitude": "17.41473000",
+        "longitude": "-62.81390000"
+      }
+    ]
+  },
+  {
+    "id": 3840,
+    "country_id": 185,
+    "name": "Saint John Figtree",
+    "state_code": "07",
+    "latitude": "17.11557480",
+    "longitude": "-62.60310040",
+    "cities": [
+      {
+        "id": 65171,
+        "name": "Fig Tree",
+        "latitude": "17.12623000",
+        "longitude": "-62.60265000"
+      }
+    ]
+  },
+  {
+    "id": 3841,
+    "country_id": 185,
+    "name": "Saint Kitts",
+    "state_code": "K",
+    "latitude": "17.34337960",
+    "longitude": "-62.75590430"
+  },
+  {
+    "id": 3844,
+    "country_id": 185,
+    "name": "Saint Mary Cayon",
+    "state_code": "08",
+    "latitude": "17.34620710",
+    "longitude": "-62.73826710",
+    "cities": [
+      {
+        "id": 65167,
+        "name": "Cayon",
+        "latitude": "17.35000000",
+        "longitude": "-62.73333000"
+      }
+    ]
+  },
+  {
+    "id": 3834,
+    "country_id": 185,
+    "name": "Saint Paul Capisterre",
+    "state_code": "09",
+    "latitude": "17.40166830",
+    "longitude": "-62.82573320",
+    "cities": [
+      {
+        "id": 65177,
+        "name": "Saint Paul’s",
+        "latitude": "17.40605000",
+        "longitude": "-62.83562000"
+      }
+    ]
+  },
+  {
+    "id": 3838,
+    "country_id": 185,
+    "name": "Saint Paul Charlestown",
+    "state_code": "10",
+    "latitude": "17.13462970",
+    "longitude": "-62.61338160",
+    "cities": [
+      {
+        "id": 65168,
+        "name": "Charlestown",
+        "latitude": "17.13333000",
+        "longitude": "-62.61667000"
+      }
+    ]
+  },
+  {
+    "id": 3831,
+    "country_id": 185,
+    "name": "Saint Peter Basseterre",
+    "state_code": "11",
+    "latitude": "17.31029110",
+    "longitude": "-62.71475330",
+    "cities": [
+      {
+        "id": 65174,
+        "name": "Monkey Hill",
+        "latitude": "17.32327000",
+        "longitude": "-62.72914000"
+      }
+    ]
+  },
+  {
+    "id": 3839,
+    "country_id": 185,
+    "name": "Saint Thomas Lowland",
+    "state_code": "12",
+    "latitude": "17.16505130",
+    "longitude": "-62.60897530",
+    "cities": [
+      {
+        "id": 65169,
+        "name": "Cotton Ground",
+        "latitude": "17.16667000",
+        "longitude": "-62.61667000"
+      }
+    ]
+  },
+  {
+    "id": 3842,
+    "country_id": 185,
+    "name": "Saint Thomas Middle Island",
+    "state_code": "13",
+    "latitude": "17.33488130",
+    "longitude": "-62.80882510",
+    "cities": [
+      {
+        "id": 65173,
+        "name": "Middle Island",
+        "latitude": "17.32590000",
+        "longitude": "-62.81055000"
+      }
+    ]
+  },
+  {
+    "id": 3843,
+    "country_id": 185,
+    "name": "Trinity Palmetto Point",
+    "state_code": "15",
+    "latitude": "17.30635190",
+    "longitude": "-62.76178370",
+    "cities": [
+      {
+        "id": 65179,
+        "name": "Trinity",
+        "latitude": "17.30037000",
+        "longitude": "-62.77584000"
+      }
+    ]
+  }
+]

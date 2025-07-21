@@ -1,0 +1,258 @@
+[
+  {
+    "id": 513,
+    "country_id": 197,
+    "name": "Anse Boileau",
+    "state_code": "02",
+    "latitude": "-4.70472680",
+    "longitude": "55.48593630",
+    "cities": [
+      {
+        "id": 102906,
+        "name": "Anse Boileau",
+        "latitude": "-4.71667000",
+        "longitude": "55.48333000"
+      }
+    ]
+  },
+  {
+    "id": 502,
+    "country_id": 197,
+    "name": "Anse Royale",
+    "state_code": "05",
+    "latitude": "-4.74079880",
+    "longitude": "55.50810120",
+    "cities": [
+      {
+        "id": 102907,
+        "name": "Anse Royale",
+        "latitude": "-4.73333000",
+        "longitude": "55.51667000"
+      }
+    ]
+  },
+  {
+    "id": 506,
+    "country_id": 197,
+    "name": "Anse-aux-Pins",
+    "state_code": "01",
+    "latitude": "-4.69004430",
+    "longitude": "55.51502890"
+  },
+  {
+    "id": 508,
+    "country_id": 197,
+    "name": "Au Cap",
+    "state_code": "04",
+    "latitude": "-4.70597230",
+    "longitude": "55.50810120"
+  },
+  {
+    "id": 497,
+    "country_id": 197,
+    "name": "Baie Lazare",
+    "state_code": "06",
+    "latitude": "-4.74825250",
+    "longitude": "55.48593630"
+  },
+  {
+    "id": 514,
+    "country_id": 197,
+    "name": "Baie Sainte Anne",
+    "state_code": "07",
+    "latitude": "47.05259000",
+    "longitude": "-64.95245790"
+  },
+  {
+    "id": 512,
+    "country_id": 197,
+    "name": "Beau Vallon",
+    "state_code": "08",
+    "latitude": "-4.62109670",
+    "longitude": "55.42778020",
+    "cities": [
+      {
+        "id": 102908,
+        "name": "Beau Vallon",
+        "latitude": "-4.62091000",
+        "longitude": "55.43015000"
+      }
+    ]
+  },
+  {
+    "id": 515,
+    "country_id": 197,
+    "name": "Bel Air",
+    "state_code": "09",
+    "latitude": "34.10024550",
+    "longitude": "-118.45946300"
+  },
+  {
+    "id": 505,
+    "country_id": 197,
+    "name": "Bel Ombre",
+    "state_code": "10",
+    "latitude": "-20.50100950",
+    "longitude": "57.42596240",
+    "cities": [
+      {
+        "id": 102909,
+        "name": "Bel Ombre",
+        "latitude": "-4.61667000",
+        "longitude": "55.41667000"
+      }
+    ]
+  },
+  {
+    "id": 517,
+    "country_id": 197,
+    "name": "Cascade",
+    "state_code": "11",
+    "latitude": "44.51628210",
+    "longitude": "-116.04179830",
+    "cities": [
+      {
+        "id": 102910,
+        "name": "Cascade",
+        "latitude": "-4.66667000",
+        "longitude": "55.50000000"
+      }
+    ]
+  },
+  {
+    "id": 503,
+    "country_id": 197,
+    "name": "Glacis",
+    "state_code": "12",
+    "latitude": "47.11573030",
+    "longitude": "-70.30281830"
+  },
+  {
+    "id": 500,
+    "country_id": 197,
+    "name": "Grand'Anse Mahé",
+    "state_code": "13",
+    "latitude": "-4.67739200",
+    "longitude": "55.46377700"
+  },
+  {
+    "id": 504,
+    "country_id": 197,
+    "name": "Grand'Anse Praslin",
+    "state_code": "14",
+    "latitude": "-4.31762190",
+    "longitude": "55.70783630"
+  },
+  {
+    "id": 495,
+    "country_id": 197,
+    "name": "La Digue",
+    "state_code": "15",
+    "latitude": "49.76669220",
+    "longitude": "-97.15466290"
+  },
+  {
+    "id": 516,
+    "country_id": 197,
+    "name": "La Rivière Anglaise",
+    "state_code": "16",
+    "latitude": "-4.61061500",
+    "longitude": "55.45408410",
+    "cities": [
+      {
+        "id": 102913,
+        "name": "Victoria",
+        "latitude": "-4.62001000",
+        "longitude": "55.45501000"
+      }
+    ]
+  },
+  {
+    "id": 499,
+    "country_id": 197,
+    "name": "Les Mamelles",
+    "state_code": "24",
+    "latitude": "38.82505050",
+    "longitude": "-90.48345170"
+  },
+  {
+    "id": 494,
+    "country_id": 197,
+    "name": "Mont Buxton",
+    "state_code": "17",
+    "latitude": "-4.61666670",
+    "longitude": "55.44577680"
+  },
+  {
+    "id": 498,
+    "country_id": 197,
+    "name": "Mont Fleuri",
+    "state_code": "18",
+    "latitude": "-4.63565430",
+    "longitude": "55.45546880"
+  },
+  {
+    "id": 511,
+    "country_id": 197,
+    "name": "Plaisance",
+    "state_code": "19",
+    "latitude": "45.60709500",
+    "longitude": "-75.11427450"
+  },
+  {
+    "id": 510,
+    "country_id": 197,
+    "name": "Pointe La Rue",
+    "state_code": "20",
+    "latitude": "-4.68048900",
+    "longitude": "55.51918570"
+  },
+  {
+    "id": 507,
+    "country_id": 197,
+    "name": "Port Glaud",
+    "state_code": "21",
+    "latitude": "-4.64885230",
+    "longitude": "55.41947530",
+    "cities": [
+      {
+        "id": 102911,
+        "name": "Port Glaud",
+        "latitude": "-4.66667000",
+        "longitude": "55.41667000"
+      }
+    ]
+  },
+  {
+    "id": 501,
+    "country_id": 197,
+    "name": "Roche Caiman",
+    "state_code": "25",
+    "latitude": "-4.63960280",
+    "longitude": "55.46793150"
+  },
+  {
+    "id": 496,
+    "country_id": 197,
+    "name": "Saint Louis",
+    "state_code": "22",
+    "latitude": "38.62700250",
+    "longitude": "-90.19940420"
+  },
+  {
+    "id": 509,
+    "country_id": 197,
+    "name": "Takamaka",
+    "state_code": "23",
+    "latitude": "37.96459170",
+    "longitude": "-1.22177270",
+    "cities": [
+      {
+        "id": 102912,
+        "name": "Takamaka",
+        "latitude": "-4.76667000",
+        "longitude": "55.50000000"
+      }
+    ]
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": 5273,
+    "country_id": 8,
+    "name": "Blowing Point",
+    "state_code": null,
+    "latitude": "18.17655530",
+    "longitude": "-63.10212960"
+  },
+  {
+    "id": 5274,
+    "country_id": 8,
+    "name": "East End",
+    "state_code": null,
+    "latitude": "18.23561730",
+    "longitude": "-63.01497150"
+  },
+  {
+    "id": 5275,
+    "country_id": 8,
+    "name": "George Hill",
+    "state_code": null,
+    "latitude": "18.19978110",
+    "longitude": "-63.07761140"
+  },
+  {
+    "id": 5276,
+    "country_id": 8,
+    "name": "Island Harbour",
+    "state_code": null,
+    "latitude": "18.25521250",
+    "longitude": "-63.01405900"
+  },
+  {
+    "id": 5277,
+    "country_id": 8,
+    "name": "North Hill",
+    "state_code": null,
+    "latitude": "18.20508630",
+    "longitude": "-63.08584570"
+  },
+  {
+    "id": 5278,
+    "country_id": 8,
+    "name": "North Side",
+    "state_code": null,
+    "latitude": "18.23005440",
+    "longitude": "-63.05188900"
+  },
+  {
+    "id": 5279,
+    "country_id": 8,
+    "name": "Sandy Ground",
+    "state_code": null,
+    "latitude": "18.20185510",
+    "longitude": "-63.09734710"
+  },
+  {
+    "id": 5280,
+    "country_id": 8,
+    "name": "Sandy Hill",
+    "state_code": null,
+    "latitude": "18.21892100",
+    "longitude": "-63.01299160"
+  },
+  {
+    "id": 5281,
+    "country_id": 8,
+    "name": "South Hill",
+    "state_code": null,
+    "latitude": "18.18924750",
+    "longitude": "-63.09763670"
+  },
+  {
+    "id": 5282,
+    "country_id": 8,
+    "name": "Stoney Ground",
+    "state_code": null,
+    "latitude": "18.21791010",
+    "longitude": "-63.04969860"
+  },
+  {
+    "id": 5283,
+    "country_id": 8,
+    "name": "The Farrington",
+    "state_code": null,
+    "latitude": "18.21347010",
+    "longitude": "-63.02721620"
+  },
+  {
+    "id": 5284,
+    "country_id": 8,
+    "name": "The Quarter",
+    "state_code": null,
+    "latitude": "18.21453340",
+    "longitude": "-63.05644890"
+  },
+  {
+    "id": 5285,
+    "country_id": 8,
+    "name": "The Valley",
+    "state_code": null,
+    "latitude": "18.21521660",
+    "longitude": "-63.07006280"
+  },
+  {
+    "id": 5286,
+    "country_id": 8,
+    "name": "West End",
+    "state_code": null,
+    "latitude": "18.17153940",
+    "longitude": "-63.17191270"
+  }
+]
